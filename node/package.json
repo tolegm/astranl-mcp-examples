@@ -1,0 +1,8 @@
+{
+  "name": "astranl-translate-example",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Minimal AstraNL translate example for Node.js",
+  "main": "translate.js",
+  "scripts": { "start": "node translate.js" }
+}
