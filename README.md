@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://astranl.com/brand/astranl-logo-400.png" alt="AstraNL logo" width="160" height="160"/>
+</p>
+
 # AstraNL MCP — working examples
 
 15 ready-to-use AI capabilities through a single MCP / HTTP endpoint with
